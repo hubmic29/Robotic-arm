@@ -14,12 +14,12 @@ Jest to **pięcioosiowe ramię robotyczne**, które zostało w pełni **zaprojek
   - Dodatkowo zaprojektowałem, wydrukowałem i zmontowałem **pilot do sterowania robotem**.  
 
 ## Wykorzystane technologie i komponenty  
-- **Fusion 360** – modelowanie 3D  
-- **Drukarka 3D** – wydruk w PLA  
-- **Arduino Uno Mega** – sterowanie  
-- **Silniki krokowe NEMA** – z przekładniami  
-- **Wentylator chłodzący** – dla sterowników silników  
-- **Pilot do sterowania** – zaprojektowany i wydrukowany  
+- **Fusion 360** 
+- **Drukarka 3D**
+- **Arduino Uno Mega**
+- **Silniki krokowe NEMA**
+- **Wentylator chłodzący** 
+- **Pilot do sterowania**
 
 ## Ramie robota na wtryskarce usówające próbki laboratoryjne 
 ![Demo ramienia robota](https://github.com/hubmic29/Robotic-arm/blob/main/robot%20arm%20on%20an%20injection%20molding%20machine.gif)
